@@ -6,3 +6,6 @@ Functionalities:
 - Stop recording audio
 - Play recording
 - Clear last recording
+
+Dependencies:
+- The example package uses TMPro for the text components & buttons
