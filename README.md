@@ -22,7 +22,7 @@ To use this package, you can follow these steps:
 ## Usage ## 
 After importing the package, you can open the example scene to see how the microphone recording works. The example scene is located in the Scenes folder and is called MicrophoneExample.unity.
 
-The example scene includes a simple user interface that allows you to record, stop, play, and clear the last recording. The example script is attached to a game object called MicrophoneController.
+The example scene includes a simple user interface that allows you to record, stop, play, and clear the last recording. The example script is attached to a game object called Microphone Controller.
 
 To use the microphone recording functionality in your own project, you can copy the MicrophoneController game object and script to your own scene. You can then customize the script to fit your specific needs.
 
